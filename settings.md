@@ -7,3 +7,4 @@
 7. Os símbolos da senha não devem ter menos de 8 caracteres
 8. O usuário é desconectado e redirecionado para a página inicial como convidado
 9. Mudanças no arquivo. Alterado para a branch correta.
+10. tentativa de mudanças.
